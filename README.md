@@ -1,5 +1,5 @@
 # docker-botframework-emulator
-Dockerfile for botframework emulator
+Dockerfile for microsoft botframework emulator
 
 ##How to run bot framework emulator:
 
