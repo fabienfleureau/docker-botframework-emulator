@@ -6,9 +6,10 @@ Dockerfile for botframework emulator
 ```docker run -i fabienfleureau/botframework-emulator```
 
 
+###Usage:
+
 See http://docs.botframework.com/connector/tools/bot-framework-emulator/#mac-and-linux-support-using-command-line-emulator
 
-###Usage:
 
 configure endpoint by typing
 ```
